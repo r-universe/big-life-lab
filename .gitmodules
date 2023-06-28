@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cchsflow"]
 	path = cchsflow
 	url = https://github.com/big-life-lab/cchsflow
-	shallow = true
-	registered = true
 [submodule "recodeflow"]
 	path = recodeflow
 	url = https://github.com/big-life-lab/recodeflow
-	shallow = true
-	registered = true
