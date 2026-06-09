@@ -5,6 +5,9 @@
 [submodule "cchsflow"]
 	path = cchsflow
 	url = https://github.com/big-life-lab/cchsflow
+[submodule "chmsflow"]
+	path = chmsflow
+	url = https://github.com/big-life-lab/chmsflow
 [submodule "recodeflow"]
 	path = recodeflow
 	url = https://github.com/big-life-lab/recodeflow
